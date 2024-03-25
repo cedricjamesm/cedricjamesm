@@ -2,7 +2,7 @@
 <h1 align="center">How's it going, I'm Cedric!</h1>
 <h3 align="center">2nd year computer science student</h3>
 
-- 📫 How to reach me **cedricmapilisan@gmail.com**
+- Get in touch with me: **cedricmapilisan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
