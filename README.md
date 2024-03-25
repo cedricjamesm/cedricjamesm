@@ -3,6 +3,7 @@
 <h3 align="center">2nd year computer science student</h3>
 
 - Get in touch with me: **cedricmapilisan@gmail.com**
+![Uploading pompo-the-cinephile-typing-fast.gif…]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
