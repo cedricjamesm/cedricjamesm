@@ -1,7 +1,7 @@
 ```java
 public class CedricMapilisan {
     public String name = "Cedric Mapilisan";
-    public String role = "2nd Year Computer Science Student";
+    public String role = "3rd Year Computer Science Student";
     public String[] languages = {"Java", "PHP", "JavaScript", "Python", "C++", "C#"};
     public String contact = "cedricmapilisan@gmail.com";
     public String github = "https://github.com/cedricjamesm";
