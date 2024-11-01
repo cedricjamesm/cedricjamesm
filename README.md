@@ -1,22 +1,38 @@
-# 👋 Hello, I'm Cedric Mapilisan
+# 👋 Hi there, I'm Cedric Mapilisan!
 
-🎓 **3rd Year Computer Science Student**
-
-🌐 **Connect with me:**
-- **Email**: [cedricmapilisan@gmail.com](mailto:cedricmapilisan@gmail.com)
-- **GitHub**: [github.com/cedricjamesm](https://github.com/cedricjamesm)
-- **LinkedIn**: [linkedin.com/in/cedric-mapilisan](https://www.linkedin.com/in/cedric-mapilisan-40b186269)
-
-💻 **Languages & Tools:**
-- **Languages**: Java, PHP, JavaScript, Python, C++, C#
-
-📜 **About Me**
-- Passionate about problem-solving, building projects, and continuous learning.
-- Currently focused on Android and iOS app development.
-- Currently working on a Schedule Application for my school.
-- Always open to collaboration on interesting projects!
+I'm a **3rd Year Computer Science Student** passionate about software development, problem-solving, and building impactful projects.
 
 ---
 
-Thanks for visiting, and feel free to reach out if you'd like to connect!
+### 👨‍💻 About Me
+- 🔍 Currently diving deep into **Android and iOS app development**
+- 🎯 Focused on gaining expertise in **Software Development** and **Mobile Applications**
+- 🌱 Always excited to learn new languages, frameworks, and development techniques
 
+---
+
+### 🛠️ Languages & Technologies
+| Languages      | Tools          | Frameworks/Libraries  |
+| -------------- | -------------- | ---------------------- |
+| Java           | Git            | Android Studio         |
+| PHP            | Visual Studio  | Firebase               |
+| JavaScript     | IntelliJ       | SwiftUI                |
+| Python         | SQL Databases  | ASP.NET                |
+| C++            |                |                        |
+| C#             |                |                        |
+
+---
+
+### 🌐 Connect with Me
+- 📫 **Email**: [cedricmapilisan@gmail.com](mailto:cedricmapilisan@gmail.com)
+- 🐙 **GitHub**: [github.com/cedricjamesm](https://github.com/cedricjamesm)
+- 💼 **LinkedIn**: [linkedin.com/in/cedric-mapilisan](https://www.linkedin.com/in/cedric-mapilisan-40b186269)
+
+---
+
+### 💡 Fun Fact
+Besides coding, I enjoy watching movies, running, as well as reading!
+
+---
+
+Thank you for visiting! Feel free to connect or reach out if you’d like to collaborate on a project. Let's build something amazing together! 🚀
