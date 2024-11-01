@@ -1,28 +1,22 @@
-```java
-public class CedricMapilisan {
-    public String name = "Cedric Mapilisan";
-    public String role = "3rd Year Computer Science Student";
-    public String[] languages = {"Java", "PHP", "JavaScript", "Python", "C++", "C#"};
-    public String contact = "cedricmapilisan@gmail.com";
-    public String github = "https://github.com/cedricjamesm";
-    public String linkedin = "https://www.linkedin.com/in/cedric-mapilisan-40b186269";
+# 👋 Hello, I'm Cedric Mapilisan
 
-    public CedricMapilisan() {
-        System.out.println("Hello, I'm " + name + ".");
-        System.out.println("I'm a " + role + ".");
-        System.out.println("You can reach me at " + contact + ".");
-        System.out.println("Connect with me:");
-        System.out.println("GitHub: " + github);
-        System.out.println("LinkedIn: " + linkedin);
-    }
+🎓 **3rd Year Computer Science Student**
 
-    public void sayHi() {
-        System.out.println("How's it going!");
-    }
+🌐 **Connect with me:**
+- **Email**: [cedricmapilisan@gmail.com](mailto:cedricmapilisan@gmail.com)
+- **GitHub**: [github.com/cedricjamesm](https://github.com/cedricjamesm)
+- **LinkedIn**: [linkedin.com/in/cedric-mapilisan](https://www.linkedin.com/in/cedric-mapilisan-40b186269)
 
-    public static void main(String[] args) {
-        CedricMapilisan cedric = new CedricMapilisan();
-        cedric.sayHi();
-    }
-}
-```
+💻 **Languages & Tools:**
+- **Languages**: Java, PHP, JavaScript, Python, C++, C#
+
+📜 **About Me**
+- Passionate about problem-solving, building projects, and continuous learning.
+- Currently focused on Android and iOS app development.
+- Currently working on a Schedule Application for my school.
+- Always open to collaboration on interesting projects!
+
+---
+
+Thanks for visiting, and feel free to reach out if you'd like to connect!
+
